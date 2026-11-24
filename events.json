@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "flags": { "onePulse": false, "interstitial": true },
+  "events": [
+    { "id": "dsw-1", "kind": "doubleDust", "start": "2026-12-05T00:00:00Z", "end": "2026-12-06T22:59:59Z", "factor": 2 }
+  ]
+}
